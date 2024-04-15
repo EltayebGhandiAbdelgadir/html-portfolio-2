@@ -1,0 +1,48 @@
+header{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #39b5bc;
+    background-color: #CBF1F5;
+}
+.mountainImg{
+    margin-top: 74px;
+}
+#myName{
+    margin-top: 100px;
+    font-size: 100px;
+    font-family: "Sacramento", cursive;
+    margin-bottom: 0%;
+}
+#myJob{
+    margin-top: 30px;
+    font-size: 50px;
+    font-family: "Mukta", sans-serif;
+}
+.underline{
+    text-decoration: underline;
+}
+.mypic{
+    height: 200px;
+    width: 180px;
+    border-radius: 50%;
+}
+.containerr{
+    display: flex;
+    background-color: #effdfd;
+    justify-content: center;
+}
+.myfont{
+    margin-top: 40px;
+}
+.myfontt{
+    font-size: 30px;
+}
+footer{
+    background-color: #71C9CE;
+    width: 100%;
+}
+ul{
+    margin-right: 50px;
+}
